@@ -1,0 +1,13 @@
+Reference, Value, Footprint, Datasheet, MANUFACTURER, MAXIMUM_PACKAGE_HEIGHT, PARTREV, STANDARD
+"SW1","Rotary_Encoder_Switch","Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm","~"
+"C2","200nF","Capacitor_THT:CP_Radial_Tantal_D8.0mm_P5.00mm","~"
+"C1","200nF","Capacitor_THT:CP_Radial_Tantal_D8.0mm_P5.00mm","~"
+"A1","Arduino_Nano_v3.x","Module:Arduino_Nano","http://www.mouser.com/pdfdocs/Gravitech_Arduino_Nano3_0.pdf"
+"J1","MPU6050 Breakout","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical","~"
+"J2","NRF24L01+ Breakout","Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical","~"
+"C3","10uF","Capacitor_THT:CP_Radial_Tantal_D8.0mm_P5.00mm","~"
+"J6","Battery Connector","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","~"
+"J3","OLED","Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical","~"
+"U2","COM-09032","XDCR_COM-09032","","SparkFun Electronics","30.1mm","N/A","Manufacturer Recommendations"
+"U1","COM-09032","XDCR_COM-09032","","SparkFun Electronics","30.1mm","N/A","Manufacturer Recommendations"
+"S1","100SP1T1B4M2QE","SW_100SP1T1B4M2QE","","E-Switch","29.68 mm","E","Manufacturer Recommendations"
