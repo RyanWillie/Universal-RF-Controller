@@ -1,3 +1,5 @@
+![Rendered PCB](https://raw.githubusercontent.com/RyanWillie/Universal-RF-Controller/main/Images/Universal%20Controller%20Mk1.png)
+
 # Universal-RF-Controller
 As a continuation of my studies i aimed to work on a project that could utlise both aspects of my computer science and electrical engineering knowledge, as well as my interest in 3D printing. I decided upon designing an autonomous hexapod robot, which would allow for all aspects to be utilised. In order to be able to control the hexapod remotely i would require a RF controller to communicate with it wirelessly, this also presented an opportunity to tackle a much easier project first before attempting the more complex task.
 
@@ -27,15 +29,13 @@ The process for designing and manufacturing the RF controller required a few rev
   - NRF24L01 Transciever
   - Toggle Switch
   
+  
    ## Proof of concept
    Before desiging the PCB i confirmed that the designed circuit was connected correctly and worked as intended, the circuit was constructed on breadboard, this can be seen in the below image:
-   ***Insert image here***
+   ![Proof of Concept](https://raw.githubusercontent.com/RyanWillie/Universal-RF-Controller/main/Images/POC.jpg)
    
    ## PCB Design and Manufacturing
    The open source program [KiCad](https://kicad.org/) was used as the design software for the PCB, it is a 2 layer board designed to meet JLCPCB's requirements.  As the board is a one off the space and shape requirements are purely to achieve the smallest practical footprint.
    
-   A render of the board is below:
-   
-   ***Insert Image ***
-   
+   ![KiCad Schematic](https://raw.githubusercontent.com/RyanWillie/Universal-RF-Controller/main/Images/Schematic.png)
    
