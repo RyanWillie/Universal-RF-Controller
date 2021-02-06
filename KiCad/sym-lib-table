@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name COM-09032)(type Legacy)(uri D:/Sync/Projects/Library's/COM-09032/COM-09032.lib)(options "")(descr ""))
+  (lib (name 100SP1T1)(type Legacy)(uri D:/Sync/Projects/Library's/100SP1T1B4M2QE/100SP1T1B4M2QE.lib)(options "")(descr ""))
+  (lib (name Universal-Controller-Mk1-rescue)(type Legacy)(uri "${KIPRJMOD}/Universal Controller Mk1-rescue.lib")(options "")(descr ""))
+)

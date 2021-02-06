@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name COM-09032)(type KiCad)(uri D:/Sync/Projects/Library's/COM-09032)(options "")(descr ""))
+  (lib (name 100SP1T1B4)(type KiCad)(uri D:/Sync/Projects/Library's/100SP1T1B4M2QE)(options "")(descr ""))
+)
